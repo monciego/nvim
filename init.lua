@@ -1,2 +1,2 @@
 require("monciego")
-print('helllo')
+
