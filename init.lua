@@ -1,0 +1,2 @@
+require("monciego")
+print('helllo')
